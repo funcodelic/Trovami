@@ -1,0 +1,27 @@
+# Compiled object files
+*.o
+*.obj
+*.d
+*.a
+*.so
+*.dll
+*.exe
+
+# Eclipse CDT build directories
+Debug/
+Release/
+build/
+
+# macOS files
+.DS_Store
+
+# Eclipse metadata (optional)
+.settings/
+.project
+.cproject
+
+# Other C++ build outputs
+*.gcno
+*.gcda
+*.gch
+*.out
